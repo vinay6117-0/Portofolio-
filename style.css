@@ -182,8 +182,8 @@ border-radius: 10px;
         font-size: 16px;
 }
 .sub-title{
-        font-size: 40px;
-        font-weight: 50;
+        font-size: 50px;
+        font-weight: 60;
         color: #fff;
 }
 .tab-title{
@@ -192,7 +192,7 @@ border-radius: 10px;
 }
 .tab-links{
         margin-right: 50px;
-        font-size: 23px;
+        font-size: 30px;
         font-weight: 500;
         /* cursor: pointer; */
         position: relative;
@@ -516,5 +516,6 @@ form btn2{
     display: block;
 }
     
+
 
 

@@ -239,7 +239,7 @@ border-radius: 10px;
       font-weight: 300px;
 }
 
-    /* ----------------services-------------- */
+    /* ----------------Project-------------- */
 #services{
         padding: 10px 0;
 }
@@ -316,7 +316,7 @@ border-radius: 10px;
    flex-direction: column;
    padding: 0 40px;
    text-align: center;
-   font-size: 14px;
+   font-size: 20px;
    transition: height 0.5s;
 
 }
@@ -516,6 +516,7 @@ form btn2{
     display: block;
 }
     
+
 
 
 

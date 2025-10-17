@@ -192,7 +192,7 @@ border-radius: 10px;
 }
 .tab-links{
         margin-right: 50px;
-        font-size: 30px;
+        font-size: 25px;
         font-weight: 500;
         /* cursor: pointer; */
         position: relative;
@@ -217,7 +217,7 @@ border-radius: 10px;
 }
 .tab-contents ul li span{
         color: #b54769;
-        font-size: 14px;
+        font-size: 20px;
 }
 .tab-contents{
         display: none;
@@ -516,6 +516,7 @@ form btn2{
     display: block;
 }
     
+
 
 
 

@@ -266,10 +266,13 @@ border-radius: 10px;
         font-weight: 500px;
         margin-bottom: 5px;
 }
+.services-list div p{
+  font-size: 15px  
+}
 .services-list div a{
         text-decoration: none;
         color: #fff;
-        font-size: 11px;
+        font-size: 15px;
         margin-top: 20px;
         display: inline-block;
 }
@@ -519,6 +522,7 @@ form btn2{
     display: block;
 }
     
+
 
 
 
